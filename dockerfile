@@ -1,2 +1,2 @@
 FROM rwnyns/apache
-ADD  /var/www/html
+ADD .  /var/www/html
